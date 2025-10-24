@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Version](https://img.shields.io/badge/version-1.0-blue)
+![Stars](https://img.shields.io/github/stars/maryamZolfaqari/GIS-Projects?style=social)
+
 
 این مخزن شامل پروژه‌های درس **سیستم‌های اطلاعات جغرافیایی (GIS)** است.  
 هر پروژه شامل داده‌ها، کدها و توضیحات مربوط به تمرین‌ها و پروژه‌های عملی کلاس GIS می‌باشد.
